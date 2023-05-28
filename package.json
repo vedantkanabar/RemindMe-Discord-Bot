@@ -1,0 +1,32 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.2.6",
+    "node-schedule": "^2.1.1",
+    "node-schedule-tz": "^1.2.1-4",
+    "openai": "^3.2.1",
+    "toad-scheduler": "^2.2.0",
+    "twilio": "^4.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garienelio/RemindMe-Discord-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/garienelio/RemindMe-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/garienelio/RemindMe-Discord-Bot#readme",
+  "description": ""
+}
